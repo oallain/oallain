@@ -5,3 +5,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oallain&show_icons=true&locale=en&layout=compact" alt="oallain" /></p>
 
 <p> <a href="https://twitter.com/oallain33" target="blank"><img src="https://img.shields.io/twitter/follow/oallain33?logo=twitter&style=for-the-badge" alt="oallain33" /></a> </p>
+
+<!--START_SECTION:activity-->
