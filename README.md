@@ -11,11 +11,11 @@ I'm Olivier, a web developer in the Bordeaux area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/oallain/Sylius-Standard/pull/1) in [oallain/Sylius-Standard](https://github.com/oallain/Sylius-Standard)
-2. 🎉 Merged PR [#25](https://github.com/synolia/SyliusMailTesterPlugin/pull/25) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
-3. 🗣 Commented on [#13](https://github.com/synolia/SyliusMaintenancePlugin/issues/13) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
-4. 🎉 Merged PR [#13](https://github.com/synolia/SyliusMaintenancePlugin/pull/13) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
-5. 💪 Opened PR [#14](https://github.com/synolia/SyliusMaintenancePlugin/pull/14) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+1. 💪 Opened PR [#15](https://github.com/synolia/SyliusMaintenancePlugin/pull/15) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+2. ❌ Closed PR [#1](https://github.com/oallain/Sylius-Standard/pull/1) in [oallain/Sylius-Standard](https://github.com/oallain/Sylius-Standard)
+3. 🎉 Merged PR [#25](https://github.com/synolia/SyliusMailTesterPlugin/pull/25) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+4. 🗣 Commented on [#13](https://github.com/synolia/SyliusMaintenancePlugin/issues/13) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+5. 🎉 Merged PR [#13](https://github.com/synolia/SyliusMaintenancePlugin/pull/13) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
