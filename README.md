@@ -11,11 +11,6 @@ I'm Olivier, a web developer in the Bordeaux area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/synolia/SyliusMailTesterPlugin/pull/29) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
-2. 🎉 Merged PR [#68](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/68) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-3. 🎉 Merged PR [#67](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/67) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-4. 💪 Opened PR [#68](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/68) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-5. 💪 Opened PR [#67](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/67) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
