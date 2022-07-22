@@ -11,16 +11,16 @@ I'm Olivier, a web developer in the Bordeaux area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#115](https://github.com/synolia/SyliusAkeneoPlugin/pull/115) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-2. 🎉 Merged PR [#41](https://github.com/synolia/SyliusGDPRPlugin/pull/41) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
-3. 🎉 Merged PR [#114](https://github.com/synolia/SyliusAkeneoPlugin/pull/114) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-4. 🎉 Merged PR [#113](https://github.com/synolia/SyliusAkeneoPlugin/pull/113) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-5. ❌ Closed PR [#40](https://github.com/synolia/SyliusGDPRPlugin/pull/40) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
-6. 🗣 Commented on [#40](https://github.com/synolia/SyliusGDPRPlugin/issues/40) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
-7. 💪 Opened PR [#1025](https://github.com/phpro/grumphp/pull/1025) in [phpro/grumphp](https://github.com/phpro/grumphp)
-8. 💪 Opened PR [#114](https://github.com/synolia/SyliusAkeneoPlugin/pull/114) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-9. 💪 Opened PR [#113](https://github.com/synolia/SyliusAkeneoPlugin/pull/113) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-10. 💪 Opened PR [#112](https://github.com/synolia/SyliusAkeneoPlugin/pull/112) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+1. 🗣 Commented on [#14172](https://github.com/Sylius/Sylius/issues/14172) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
+2. 🎉 Merged PR [#115](https://github.com/synolia/SyliusAkeneoPlugin/pull/115) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+3. 🎉 Merged PR [#41](https://github.com/synolia/SyliusGDPRPlugin/pull/41) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+4. 🎉 Merged PR [#114](https://github.com/synolia/SyliusAkeneoPlugin/pull/114) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+5. 🎉 Merged PR [#113](https://github.com/synolia/SyliusAkeneoPlugin/pull/113) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+6. ❌ Closed PR [#40](https://github.com/synolia/SyliusGDPRPlugin/pull/40) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+7. 🗣 Commented on [#40](https://github.com/synolia/SyliusGDPRPlugin/issues/40) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+8. 💪 Opened PR [#1025](https://github.com/phpro/grumphp/pull/1025) in [phpro/grumphp](https://github.com/phpro/grumphp)
+9. 💪 Opened PR [#114](https://github.com/synolia/SyliusAkeneoPlugin/pull/114) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+10. 💪 Opened PR [#113](https://github.com/synolia/SyliusAkeneoPlugin/pull/113) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
