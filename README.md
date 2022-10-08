@@ -11,16 +11,16 @@ I'm Olivier, a web developer in the Bordeaux area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#281](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/281) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-2. 🎉 Merged PR [#122](https://github.com/synolia/SyliusAkeneoPlugin/pull/122) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-3. 💪 Opened PR [#122](https://github.com/synolia/SyliusAkeneoPlugin/pull/122) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-4. ❗️ Closed issue [#275](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/issues/275) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-5. 🗣 Commented on [#275](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/issues/275) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-6. 🗣 Commented on [#1022](https://github.com/phpro/grumphp/issues/1022) in [phpro/grumphp](https://github.com/phpro/grumphp)
-7. 🗣 Commented on [#272](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/issues/272) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-8. 🎉 Merged PR [#272](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/272) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-9. 🗣 Commented on [#102](https://github.com/SyliusCrafts/BootstrapTheme/issues/102) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-10. ❗️ Closed issue [#102](https://github.com/SyliusCrafts/BootstrapTheme/issues/102) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+1. 🎉 Merged PR [#280](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/280) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+2. 🎉 Merged PR [#281](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/281) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+3. 🎉 Merged PR [#122](https://github.com/synolia/SyliusAkeneoPlugin/pull/122) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+4. 💪 Opened PR [#122](https://github.com/synolia/SyliusAkeneoPlugin/pull/122) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+5. ❗️ Closed issue [#275](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/issues/275) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+6. 🗣 Commented on [#275](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/issues/275) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+7. 🗣 Commented on [#1022](https://github.com/phpro/grumphp/issues/1022) in [phpro/grumphp](https://github.com/phpro/grumphp)
+8. 🗣 Commented on [#272](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/issues/272) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+9. 🎉 Merged PR [#272](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/272) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+10. 🗣 Commented on [#102](https://github.com/SyliusCrafts/BootstrapTheme/issues/102) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
