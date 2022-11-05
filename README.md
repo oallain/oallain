@@ -11,16 +11,16 @@ I'm Olivier, a web developer in the Bordeaux area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/synolia/SyliusAkeneoPlugin/pull/125) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-2. 💪 Opened PR [#109](https://github.com/synolia/SyliusPayPlugPlugin/pull/109) in [synolia/SyliusPayPlugPlugin](https://github.com/synolia/SyliusPayPlugPlugin)
-3. 💪 Opened PR [#125](https://github.com/synolia/SyliusAkeneoPlugin/pull/125) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-4. 🎉 Merged PR [#284](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/284) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-5. 🎉 Merged PR [#283](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/283) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-6. 🗣 Commented on [#194](https://github.com/symfony-cli/symfony-cli/issues/194) in [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli)
-7. 🎉 Merged PR [#280](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/280) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-8. 🎉 Merged PR [#281](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/281) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-9. 🎉 Merged PR [#122](https://github.com/synolia/SyliusAkeneoPlugin/pull/122) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-10. 💪 Opened PR [#122](https://github.com/synolia/SyliusAkeneoPlugin/pull/122) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+1. 💪 Opened PR [#71](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/71) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+2. 🎉 Merged PR [#125](https://github.com/synolia/SyliusAkeneoPlugin/pull/125) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+3. 💪 Opened PR [#109](https://github.com/synolia/SyliusPayPlugPlugin/pull/109) in [synolia/SyliusPayPlugPlugin](https://github.com/synolia/SyliusPayPlugPlugin)
+4. 💪 Opened PR [#125](https://github.com/synolia/SyliusAkeneoPlugin/pull/125) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+5. 🎉 Merged PR [#284](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/284) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+6. 🎉 Merged PR [#283](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/283) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+7. 🗣 Commented on [#194](https://github.com/symfony-cli/symfony-cli/issues/194) in [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli)
+8. 🎉 Merged PR [#280](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/280) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+9. 🎉 Merged PR [#281](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/281) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+10. 🎉 Merged PR [#122](https://github.com/synolia/SyliusAkeneoPlugin/pull/122) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
