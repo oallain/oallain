@@ -11,16 +11,16 @@ I'm Olivier, a web developer in the Bordeaux area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14544](https://github.com/Sylius/Sylius/pull/14544) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
-2. ❗️ Opened issue [#18](https://github.com/Sylius/SyliusRecipes/issues/18) in [Sylius/SyliusRecipes](https://github.com/Sylius/SyliusRecipes)
-3. 💪 Opened PR [#14531](https://github.com/Sylius/Sylius/pull/14531) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
-4. 🎉 Merged PR [#48](https://github.com/synolia/SyliusGDPRPlugin/pull/48) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
-5. 🗣 Commented on [#46](https://github.com/synolia/SyliusGDPRPlugin/issues/46) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
-6. ❌ Closed PR [#46](https://github.com/synolia/SyliusGDPRPlugin/pull/46) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
-7. 💪 Opened PR [#48](https://github.com/synolia/SyliusGDPRPlugin/pull/48) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
-8. ❗️ Closed issue [#12](https://github.com/synolia/SyliusMaintenancePlugin/issues/12) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
-9. 🎉 Merged PR [#19](https://github.com/synolia/SyliusMaintenancePlugin/pull/19) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
-10. 🎉 Merged PR [#47](https://github.com/synolia/SyliusGDPRPlugin/pull/47) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+1. 🎉 Merged PR [#22](https://github.com/synolia/SyliusMaintenancePlugin/pull/22) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+2. 💪 Opened PR [#22](https://github.com/synolia/SyliusMaintenancePlugin/pull/22) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+3. 🎉 Merged PR [#21](https://github.com/synolia/SyliusMaintenancePlugin/pull/21) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+4. 💪 Opened PR [#21](https://github.com/synolia/SyliusMaintenancePlugin/pull/21) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+5. 💪 Opened PR [#14544](https://github.com/Sylius/Sylius/pull/14544) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
+6. ❗️ Opened issue [#18](https://github.com/Sylius/SyliusRecipes/issues/18) in [Sylius/SyliusRecipes](https://github.com/Sylius/SyliusRecipes)
+7. 💪 Opened PR [#14531](https://github.com/Sylius/Sylius/pull/14531) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
+8. 🎉 Merged PR [#48](https://github.com/synolia/SyliusGDPRPlugin/pull/48) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+9. 🗣 Commented on [#46](https://github.com/synolia/SyliusGDPRPlugin/issues/46) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+10. ❌ Closed PR [#46](https://github.com/synolia/SyliusGDPRPlugin/pull/46) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
