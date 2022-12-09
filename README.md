@@ -11,16 +11,16 @@ I'm Olivier, a web developer in the Bordeaux area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#132](https://github.com/synolia/SyliusAkeneoPlugin/pull/132) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-2. 🗣 Commented on [#131](https://github.com/synolia/SyliusAkeneoPlugin/issues/131) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-3. 🎉 Merged PR [#131](https://github.com/synolia/SyliusAkeneoPlugin/pull/131) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-4. 🎉 Merged PR [#72](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/72) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-5. 🎉 Merged PR [#23](https://github.com/synolia/SyliusMaintenancePlugin/pull/23) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
-6. 🎉 Merged PR [#49](https://github.com/synolia/SyliusGDPRPlugin/pull/49) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
-7. 🎉 Merged PR [#35](https://github.com/synolia/SyliusMailTesterPlugin/pull/35) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
-8. 🎉 Merged PR [#34](https://github.com/synolia/SyliusMailTesterPlugin/pull/34) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
-9. 🎉 Merged PR [#33](https://github.com/synolia/SyliusMailTesterPlugin/pull/33) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
-10. 💪 Opened PR [#72](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/72) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+1. 🗣 Commented on [#133](https://github.com/synolia/SyliusAkeneoPlugin/issues/133) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+2. 💪 Opened PR [#132](https://github.com/synolia/SyliusAkeneoPlugin/pull/132) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+3. 🗣 Commented on [#131](https://github.com/synolia/SyliusAkeneoPlugin/issues/131) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+4. 🎉 Merged PR [#131](https://github.com/synolia/SyliusAkeneoPlugin/pull/131) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+5. 🎉 Merged PR [#72](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/72) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+6. 🎉 Merged PR [#23](https://github.com/synolia/SyliusMaintenancePlugin/pull/23) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+7. 🎉 Merged PR [#49](https://github.com/synolia/SyliusGDPRPlugin/pull/49) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+8. 🎉 Merged PR [#35](https://github.com/synolia/SyliusMailTesterPlugin/pull/35) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+9. 🎉 Merged PR [#34](https://github.com/synolia/SyliusMailTesterPlugin/pull/34) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+10. 🎉 Merged PR [#33](https://github.com/synolia/SyliusMailTesterPlugin/pull/33) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
