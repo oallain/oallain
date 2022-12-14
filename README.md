@@ -11,16 +11,16 @@ I'm Olivier, a web developer in the Bordeaux area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#133](https://github.com/synolia/SyliusAkeneoPlugin/pull/133) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-2. 💪 Opened PR [#73](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/73) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-3. ❌ Closed PR [#132](https://github.com/synolia/SyliusAkeneoPlugin/pull/132) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-4. 💪 Opened PR [#137](https://github.com/synolia/SyliusAkeneoPlugin/pull/137) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-5. 🗣 Commented on [#133](https://github.com/synolia/SyliusAkeneoPlugin/issues/133) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-6. 💪 Opened PR [#132](https://github.com/synolia/SyliusAkeneoPlugin/pull/132) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-7. 🗣 Commented on [#131](https://github.com/synolia/SyliusAkeneoPlugin/issues/131) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-8. 🎉 Merged PR [#131](https://github.com/synolia/SyliusAkeneoPlugin/pull/131) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-9. 🎉 Merged PR [#72](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/72) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-10. 🎉 Merged PR [#23](https://github.com/synolia/SyliusMaintenancePlugin/pull/23) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+1. 🎉 Merged PR [#136](https://github.com/synolia/SyliusAkeneoPlugin/pull/136) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+2. 🎉 Merged PR [#133](https://github.com/synolia/SyliusAkeneoPlugin/pull/133) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+3. 💪 Opened PR [#73](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/73) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+4. ❌ Closed PR [#132](https://github.com/synolia/SyliusAkeneoPlugin/pull/132) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+5. 💪 Opened PR [#137](https://github.com/synolia/SyliusAkeneoPlugin/pull/137) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+6. 🗣 Commented on [#133](https://github.com/synolia/SyliusAkeneoPlugin/issues/133) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+7. 💪 Opened PR [#132](https://github.com/synolia/SyliusAkeneoPlugin/pull/132) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+8. 🗣 Commented on [#131](https://github.com/synolia/SyliusAkeneoPlugin/issues/131) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+9. 🎉 Merged PR [#131](https://github.com/synolia/SyliusAkeneoPlugin/pull/131) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+10. 🎉 Merged PR [#72](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/72) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
