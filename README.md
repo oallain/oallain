@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Olivier, a web developer in the Bordeaux area.
+I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 
 📫 How to reach me:
 
@@ -27,4 +27,3 @@ I'm Olivier, a web developer in the Bordeaux area.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oallain&" alt="oallain" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oallain&show_icons=true&locale=en&layout=compact" alt="oallain" /></p>
