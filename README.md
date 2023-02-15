@@ -11,16 +11,16 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#288](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/288) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-2. 🎉 Merged PR [#74](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/74) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-3. 🎉 Merged PR [#25](https://github.com/synolia/SyliusMaintenancePlugin/pull/25) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
-4. 🗣 Commented on [#273](https://github.com/Sylius/PayPalPlugin/issues/273) in [Sylius/PayPalPlugin](https://github.com/Sylius/PayPalPlugin)
-5. 💪 Opened PR [#273](https://github.com/Sylius/PayPalPlugin/pull/273) in [Sylius/PayPalPlugin](https://github.com/Sylius/PayPalPlugin)
-6. 🎉 Merged PR [#146](https://github.com/synolia/SyliusAkeneoPlugin/pull/146) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-7. 🎉 Merged PR [#145](https://github.com/synolia/SyliusAkeneoPlugin/pull/145) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-8. 🗣 Commented on [#143](https://github.com/synolia/SyliusAkeneoPlugin/issues/143) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-9. 🎉 Merged PR [#51](https://github.com/synolia/SyliusGDPRPlugin/pull/51) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
-10. 🎉 Merged PR [#37](https://github.com/synolia/SyliusMailTesterPlugin/pull/37) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+1. 🗣 Commented on [#35](https://github.com/synolia/SyliusSchedulerCommandPlugin/issues/35) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+2. 🎉 Merged PR [#288](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/288) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+3. 🎉 Merged PR [#74](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/74) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+4. 🎉 Merged PR [#25](https://github.com/synolia/SyliusMaintenancePlugin/pull/25) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+5. 🗣 Commented on [#273](https://github.com/Sylius/PayPalPlugin/issues/273) in [Sylius/PayPalPlugin](https://github.com/Sylius/PayPalPlugin)
+6. 💪 Opened PR [#273](https://github.com/Sylius/PayPalPlugin/pull/273) in [Sylius/PayPalPlugin](https://github.com/Sylius/PayPalPlugin)
+7. 🎉 Merged PR [#146](https://github.com/synolia/SyliusAkeneoPlugin/pull/146) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+8. 🎉 Merged PR [#145](https://github.com/synolia/SyliusAkeneoPlugin/pull/145) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+9. 🗣 Commented on [#143](https://github.com/synolia/SyliusAkeneoPlugin/issues/143) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+10. 🎉 Merged PR [#51](https://github.com/synolia/SyliusGDPRPlugin/pull/51) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
