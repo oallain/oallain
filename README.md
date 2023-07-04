@@ -11,16 +11,16 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#115](https://github.com/SyliusCrafts/BootstrapTheme/issues/115) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-2. 🚀 Published release [v0.7.1](https://github.com/v0.7.1) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-3. 🎉 Merged PR [#118](https://github.com/SyliusCrafts/BootstrapTheme/pull/118) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-4. 🎉 Merged PR [#117](https://github.com/SyliusCrafts/BootstrapTheme/pull/117) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-5. 💪 Opened PR [#118](https://github.com/SyliusCrafts/BootstrapTheme/pull/118) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-6. 🗣 Commented on [#117](https://github.com/SyliusCrafts/BootstrapTheme/issues/117) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-7. 💪 Opened PR [#117](https://github.com/SyliusCrafts/BootstrapTheme/pull/117) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-8. 🚀 Published release [v0.7.0 - Sylius 1.12](https://github.com/v0.7.0 - Sylius 1.12) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-9. 🎉 Merged PR [#116](https://github.com/SyliusCrafts/BootstrapTheme/pull/116) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-10. 💪 Opened PR [#116](https://github.com/SyliusCrafts/BootstrapTheme/pull/116) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+1. 🗣 Commented on [#85](https://github.com/synolia/SyliusSchedulerCommandPlugin/issues/85) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+2. 🗣 Commented on [#115](https://github.com/SyliusCrafts/BootstrapTheme/issues/115) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+3. 🚀 Published release [v0.7.1](https://github.com/v0.7.1) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+4. 🎉 Merged PR [#118](https://github.com/SyliusCrafts/BootstrapTheme/pull/118) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+5. 🎉 Merged PR [#117](https://github.com/SyliusCrafts/BootstrapTheme/pull/117) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+6. 💪 Opened PR [#118](https://github.com/SyliusCrafts/BootstrapTheme/pull/118) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+7. 🗣 Commented on [#117](https://github.com/SyliusCrafts/BootstrapTheme/issues/117) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+8. 💪 Opened PR [#117](https://github.com/SyliusCrafts/BootstrapTheme/pull/117) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+9. 🚀 Published release [v0.7.0 - Sylius 1.12](https://github.com/v0.7.0 - Sylius 1.12) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+10. 🎉 Merged PR [#116](https://github.com/SyliusCrafts/BootstrapTheme/pull/116) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
