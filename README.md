@@ -11,16 +11,16 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19731](https://github.com/Koenkk/zigbee2mqtt/issues/19731#issuecomment-1819777536) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-2. 🗣 Commented on [#295](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/issues/295#issuecomment-1817456901) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-3. 🗣 Commented on [#15513](https://github.com/Sylius/Sylius/pull/15513#issuecomment-1816474005) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
-4. 🎉 Merged PR [#15522](https://github.com/Sylius/Sylius/pull/15522) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
-5. 🎉 Merged PR [#89](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/89) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-6. 🎉 Merged PR [#33](https://github.com/synolia/SyliusMaintenancePlugin/pull/33) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
-7. 💪 Opened PR [#33](https://github.com/synolia/SyliusMaintenancePlugin/pull/33) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
-8. 🎉 Merged PR [#167](https://github.com/synolia/SyliusAkeneoPlugin/pull/167) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-9. 🔒 Closed issue [#159](https://github.com/synolia/SyliusAkeneoPlugin/issues/159) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-10. 🎉 Merged PR [#169](https://github.com/synolia/SyliusAkeneoPlugin/pull/169) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+1. 💪 Opened PR [#281](https://github.com/Sylius/PayPalPlugin/pull/281) in [Sylius/PayPalPlugin](https://github.com/Sylius/PayPalPlugin)
+2. 💪 Opened PR [#487](https://github.com/BitBagCommerce/SyliusCmsPlugin/pull/487) in [BitBagCommerce/SyliusCmsPlugin](https://github.com/BitBagCommerce/SyliusCmsPlugin)
+3. 💪 Opened PR [#233](https://github.com/BitBagCommerce/SyliusElasticsearchPlugin/pull/233) in [BitBagCommerce/SyliusElasticsearchPlugin](https://github.com/BitBagCommerce/SyliusElasticsearchPlugin)
+4. 🗣 Commented on [#19731](https://github.com/Koenkk/zigbee2mqtt/issues/19731#issuecomment-1819777536) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+5. 🗣 Commented on [#295](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/issues/295#issuecomment-1817456901) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+6. 🗣 Commented on [#15513](https://github.com/Sylius/Sylius/pull/15513#issuecomment-1816474005) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
+7. 🎉 Merged PR [#15522](https://github.com/Sylius/Sylius/pull/15522) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
+8. 🎉 Merged PR [#89](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/89) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+9. 🎉 Merged PR [#33](https://github.com/synolia/SyliusMaintenancePlugin/pull/33) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+10. 💪 Opened PR [#33](https://github.com/synolia/SyliusMaintenancePlugin/pull/33) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
