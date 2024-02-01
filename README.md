@@ -11,16 +11,16 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#938](https://github.com/Sylius/Sylius-Standard/pull/938) in [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard)
-2. 🗣 Commented on [#941](https://github.com/Sylius/Sylius-Standard/pull/941#issuecomment-1904647661) in [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard)
-3. 🎉 Merged PR [#4](https://github.com/oallain/grumphp/pull/4) in [oallain/grumphp](https://github.com/oallain/grumphp)
-4. 🎉 Merged PR [#3](https://github.com/oallain/grumphp/pull/3) in [oallain/grumphp](https://github.com/oallain/grumphp)
-5. 💪 Opened PR [#94](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/94) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-6. 💪 Opened PR [#93](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/93) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-7. 🗣 Commented on [#840](https://github.com/Sylius/SyliusResourceBundle/pull/840#issuecomment-1900919261) in [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle)
-8. 🗣 Commented on [#75](https://github.com/SyliusCrafts/BootstrapTheme/pull/75#issuecomment-1893668484) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-9. 🗣 Commented on [#91](https://github.com/SyliusCrafts/BootstrapTheme/issues/91#issuecomment-1893667524) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-10. ❌ Closed PR [#75](https://github.com/SyliusCrafts/BootstrapTheme/pull/75) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+1. 🚀 Published release [v1.0.1](https://github.com/synolia/SyliusAdminOAuthPlugin/releases/tag/v1.0.1) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
+2. 🎉 Merged PR [#938](https://github.com/Sylius/Sylius-Standard/pull/938) in [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard)
+3. 🗣 Commented on [#941](https://github.com/Sylius/Sylius-Standard/pull/941#issuecomment-1904647661) in [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard)
+4. 🎉 Merged PR [#4](https://github.com/oallain/grumphp/pull/4) in [oallain/grumphp](https://github.com/oallain/grumphp)
+5. 🎉 Merged PR [#3](https://github.com/oallain/grumphp/pull/3) in [oallain/grumphp](https://github.com/oallain/grumphp)
+6. 💪 Opened PR [#94](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/94) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+7. 💪 Opened PR [#93](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/93) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+8. 🗣 Commented on [#840](https://github.com/Sylius/SyliusResourceBundle/pull/840#issuecomment-1900919261) in [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle)
+9. 🗣 Commented on [#75](https://github.com/SyliusCrafts/BootstrapTheme/pull/75#issuecomment-1893668484) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+10. 🗣 Commented on [#91](https://github.com/SyliusCrafts/BootstrapTheme/issues/91#issuecomment-1893667524) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
