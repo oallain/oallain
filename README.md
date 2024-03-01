@@ -11,16 +11,16 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/synolia/SyliusAdminOAuthPlugin/pull/19#issuecomment-1971580740) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
-2. 🗣 Commented on [#1526](https://github.com/al-one/hass-xiaomi-miot/issues/1526#issuecomment-1962870333) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
-3. 🎉 Merged PR [#94](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/94) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-4. 💪 Opened PR [#491](https://github.com/BitBagCommerce/SyliusCmsPlugin/pull/491) in [BitBagCommerce/SyliusCmsPlugin](https://github.com/BitBagCommerce/SyliusCmsPlugin)
-5. 🗣 Commented on [#123](https://github.com/SyliusCrafts/BootstrapTheme/issues/123#issuecomment-1924672276) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
-6. 🚀 Published release [v1.0.1](https://github.com/synolia/SyliusAdminOAuthPlugin/releases/tag/v1.0.1) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
-7. 🎉 Merged PR [#938](https://github.com/Sylius/Sylius-Standard/pull/938) in [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard)
-8. 🗣 Commented on [#941](https://github.com/Sylius/Sylius-Standard/pull/941#issuecomment-1904647661) in [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard)
-9. 🎉 Merged PR [#4](https://github.com/oallain/grumphp/pull/4) in [oallain/grumphp](https://github.com/oallain/grumphp)
-10. 🎉 Merged PR [#3](https://github.com/oallain/grumphp/pull/3) in [oallain/grumphp](https://github.com/oallain/grumphp)
+1. 🚀 Published release [v1.0.3](https://github.com/synolia/SyliusAdminOAuthPlugin/releases/tag/v1.0.3) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
+2. 🎉 Merged PR [#20](https://github.com/synolia/SyliusAdminOAuthPlugin/pull/20) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
+3. 🚀 Published release [v1.0.2](https://github.com/synolia/SyliusAdminOAuthPlugin/releases/tag/v1.0.2) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
+4. 🎉 Merged PR [#19](https://github.com/synolia/SyliusAdminOAuthPlugin/pull/19) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
+5. 🗣 Commented on [#19](https://github.com/synolia/SyliusAdminOAuthPlugin/pull/19#issuecomment-1971580740) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
+6. 🗣 Commented on [#1526](https://github.com/al-one/hass-xiaomi-miot/issues/1526#issuecomment-1962870333) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
+7. 🎉 Merged PR [#94](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/94) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+8. 💪 Opened PR [#491](https://github.com/BitBagCommerce/SyliusCmsPlugin/pull/491) in [BitBagCommerce/SyliusCmsPlugin](https://github.com/BitBagCommerce/SyliusCmsPlugin)
+9. 🗣 Commented on [#123](https://github.com/SyliusCrafts/BootstrapTheme/issues/123#issuecomment-1924672276) in [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme)
+10. 🚀 Published release [v1.0.1](https://github.com/synolia/SyliusAdminOAuthPlugin/releases/tag/v1.0.1) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
