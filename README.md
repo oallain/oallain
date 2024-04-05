@@ -11,16 +11,16 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/synolia/SyliusAkeneoPlugin/pull/186#issuecomment-2017869154) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-2. 🗣 Commented on [#1561](https://github.com/al-one/hass-xiaomi-miot/pull/1561#issuecomment-1989202274) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
-3. 🗣 Commented on [#1526](https://github.com/al-one/hass-xiaomi-miot/issues/1526#issuecomment-1987304328) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
-4. 🗣 Commented on [#1526](https://github.com/al-one/hass-xiaomi-miot/issues/1526#issuecomment-1981602741) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
-5. 💪 Opened PR [#1561](https://github.com/al-one/hass-xiaomi-miot/pull/1561) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
-6. 🗣 Commented on [#1526](https://github.com/al-one/hass-xiaomi-miot/issues/1526#issuecomment-1981555466) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
-7. 🚀 Published release [v1.0.3](https://github.com/synolia/SyliusAdminOAuthPlugin/releases/tag/v1.0.3) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
-8. 🎉 Merged PR [#20](https://github.com/synolia/SyliusAdminOAuthPlugin/pull/20) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
-9. 🚀 Published release [v1.0.2](https://github.com/synolia/SyliusAdminOAuthPlugin/releases/tag/v1.0.2) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
-10. 🎉 Merged PR [#19](https://github.com/synolia/SyliusAdminOAuthPlugin/pull/19) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
+1. 🎉 Merged PR [#62](https://github.com/synolia/SyliusGDPRPlugin/pull/62) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+2. 🗣 Commented on [#186](https://github.com/synolia/SyliusAkeneoPlugin/pull/186#issuecomment-2017869154) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+3. 🗣 Commented on [#1561](https://github.com/al-one/hass-xiaomi-miot/pull/1561#issuecomment-1989202274) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
+4. 🗣 Commented on [#1526](https://github.com/al-one/hass-xiaomi-miot/issues/1526#issuecomment-1987304328) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
+5. 🗣 Commented on [#1526](https://github.com/al-one/hass-xiaomi-miot/issues/1526#issuecomment-1981602741) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
+6. 💪 Opened PR [#1561](https://github.com/al-one/hass-xiaomi-miot/pull/1561) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
+7. 🗣 Commented on [#1526](https://github.com/al-one/hass-xiaomi-miot/issues/1526#issuecomment-1981555466) in [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
+8. 🚀 Published release [v1.0.3](https://github.com/synolia/SyliusAdminOAuthPlugin/releases/tag/v1.0.3) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
+9. 🎉 Merged PR [#20](https://github.com/synolia/SyliusAdminOAuthPlugin/pull/20) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
+10. 🚀 Published release [v1.0.2](https://github.com/synolia/SyliusAdminOAuthPlugin/releases/tag/v1.0.2) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
