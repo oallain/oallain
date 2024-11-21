@@ -11,12 +11,12 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/98#issuecomment-2460474946) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-2. 🗣 Commented on [#300](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/issues/300#issuecomment-2351059427) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-3. 🗣 Commented on [#301](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/issues/301#issuecomment-2351057184) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-4. ❌ Reopened PR [#93](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/93) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-5. ❌ Closed PR [#93](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/93) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-6. 🚀 Published release [0.26.0](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/releases/tag/0.26.0) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+1. 🎉 Merged PR [#22](https://github.com/synolia/SyliusAdminOAuthPlugin/pull/22) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
+2. 🗣 Commented on [#98](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/98#issuecomment-2460474946) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+3. 🗣 Commented on [#300](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/issues/300#issuecomment-2351059427) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+4. 🗣 Commented on [#301](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/issues/301#issuecomment-2351057184) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+5. ❌ Reopened PR [#93](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/93) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+6. ❌ Closed PR [#93](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/93) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
 7. 🎉 Merged PR [#297](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/297) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
 8. 🗣 Commented on [#97](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/97#issuecomment-2072964834) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
 9. 🗣 Commented on [#97](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/97#issuecomment-2072139322) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
