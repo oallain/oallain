@@ -11,16 +11,16 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/jmcollin78/solar_optimizer/issues/54#issuecomment-2745198767) in [jmcollin78/solar_optimizer](https://github.com/jmcollin78/solar_optimizer)
-2. 🗣 Commented on [#197](https://github.com/synolia/SyliusAkeneoPlugin/issues/197#issuecomment-2744234914) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-3. 🚀 Published release [v3.8.0](https://github.com/synolia/SyliusSchedulerCommandPlugin/releases/tag/v3.8.0) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-4. 🎉 Merged PR [#105](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/105) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-5. 💪 Opened PR [#106](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/106) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-6. 💪 Opened PR [#105](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/105) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-7. 🚀 Published release [v2.6.0](https://github.com/synolia/SyliusMailTesterPlugin/releases/tag/v2.6.0) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
-8. 🚀 Published release [v1.1.0](https://github.com/synolia/SyliusAdminOAuthPlugin/releases/tag/v1.1.0) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
-9. 🎉 Merged PR [#23](https://github.com/synolia/SyliusAdminOAuthPlugin/pull/23) in [synolia/SyliusAdminOAuthPlugin](https://github.com/synolia/SyliusAdminOAuthPlugin)
-10. 🎉 Merged PR [#104](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/104) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+1. 🎉 Merged PR [#42](https://github.com/synolia/SyliusMailTesterPlugin/pull/42) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+2. 🚀 Published release [v2.0.1](https://github.com/synolia/SyliusMaintenancePlugin/releases/tag/v2.1.0) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+3. 🎉 Merged PR [#47](https://github.com/synolia/SyliusMaintenancePlugin/pull/47) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+4. 🔒 Closed issue [#85](https://github.com/synolia/SyliusSchedulerCommandPlugin/issues/85) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+5. 🗣 Commented on [#95](https://github.com/synolia/SyliusSchedulerCommandPlugin/issues/95#issuecomment-2745650544) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+6. 🗣 Commented on [#99](https://github.com/synolia/SyliusSchedulerCommandPlugin/issues/99#issuecomment-2745595753) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+7. 🔒 Closed issue [#99](https://github.com/synolia/SyliusSchedulerCommandPlugin/issues/99) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+8. 🎉 Merged PR [#98](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/98) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+9. 🎉 Merged PR [#97](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/97) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+10. 🗣 Commented on [#54](https://github.com/jmcollin78/solar_optimizer/issues/54#issuecomment-2745198767) in [jmcollin78/solar_optimizer](https://github.com/jmcollin78/solar_optimizer)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
