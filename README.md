@@ -11,11 +11,11 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#199](https://github.com/synolia/SyliusAkeneoPlugin/pull/199) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-2. 🗣 Commented on [#1117](https://github.com/Sylius/Sylius-Standard/pull/1117#issuecomment-2815369463) in [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard)
-3. 🗣 Commented on [#304](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/304#issuecomment-2790646701) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
-4. ❗ Opened issue [#545](https://github.com/BitBagCommerce/SyliusCmsPlugin/issues/545) in [BitBagCommerce/SyliusCmsPlugin](https://github.com/BitBagCommerce/SyliusCmsPlugin)
-5. 🎉 Merged PR [#42](https://github.com/synolia/SyliusMailTesterPlugin/pull/42) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+1. 🗣 Commented on [#193](https://github.com/synolia/SyliusAkeneoPlugin/pull/193#issuecomment-2820354059) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+2. 🎉 Merged PR [#199](https://github.com/synolia/SyliusAkeneoPlugin/pull/199) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+3. 🗣 Commented on [#1117](https://github.com/Sylius/Sylius-Standard/pull/1117#issuecomment-2815369463) in [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard)
+4. 🗣 Commented on [#304](https://github.com/FriendsOfSylius/SyliusImportExportPlugin/pull/304#issuecomment-2790646701) in [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin)
+5. ❗ Opened issue [#545](https://github.com/BitBagCommerce/SyliusCmsPlugin/issues/545) in [BitBagCommerce/SyliusCmsPlugin](https://github.com/BitBagCommerce/SyliusCmsPlugin)
 6. 🚀 Published release [v2.0.1](https://github.com/synolia/SyliusMaintenancePlugin/releases/tag/v2.1.0) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
 7. 🎉 Merged PR [#47](https://github.com/synolia/SyliusMaintenancePlugin/pull/47) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
 8. 🔒 Closed issue [#85](https://github.com/synolia/SyliusSchedulerCommandPlugin/issues/85) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
