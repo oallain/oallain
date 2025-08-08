@@ -11,10 +11,10 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18266](https://github.com/Sylius/Sylius/pull/18266#issuecomment-3163910077) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
-2. 🗣 Commented on [#18266](https://github.com/Sylius/Sylius/pull/18266#issuecomment-3160651374) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
-3. 🗣 Commented on [#1177](https://github.com/phpro/grumphp/pull/1177#issuecomment-3116960263) in [phpro/grumphp](https://github.com/phpro/grumphp)
-4. 🎉 Merged PR [#204](https://github.com/synolia/SyliusAkeneoPlugin/pull/204) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+1. 🗣 Commented on [#16515](https://github.com/Sylius/Sylius/issues/16515#issuecomment-3164213055) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
+2. 🗣 Commented on [#18266](https://github.com/Sylius/Sylius/pull/18266#issuecomment-3163910077) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
+3. 🗣 Commented on [#18266](https://github.com/Sylius/Sylius/pull/18266#issuecomment-3160651374) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
+4. 🗣 Commented on [#1177](https://github.com/phpro/grumphp/pull/1177#issuecomment-3116960263) in [phpro/grumphp](https://github.com/phpro/grumphp)
 5. 🎉 Merged PR [#203](https://github.com/synolia/SyliusAkeneoPlugin/pull/203) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
 6. 🎉 Merged PR [#202](https://github.com/synolia/SyliusAkeneoPlugin/pull/202) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
 7. 🗣 Commented on [#200](https://github.com/synolia/SyliusAkeneoPlugin/pull/200#issuecomment-3012200974) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
