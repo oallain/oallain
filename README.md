@@ -11,12 +11,12 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#273](https://github.com/payplug/SyliusPayPlugPlugin/pull/273#issuecomment-3279346223) in [payplug/SyliusPayPlugPlugin](https://github.com/payplug/SyliusPayPlugPlugin)
-2. 🎉 Merged PR [#179](https://github.com/synolia/SyliusPayPlugPlugin/pull/179) in [synolia/SyliusPayPlugPlugin](https://github.com/synolia/SyliusPayPlugPlugin)
-3. 🗣 Commented on [#18266](https://github.com/Sylius/Sylius/pull/18266#issuecomment-3160651374) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
-4. 🗣 Commented on [#1177](https://github.com/phpro/grumphp/pull/1177#issuecomment-3116960263) in [phpro/grumphp](https://github.com/phpro/grumphp)
-5. 🎉 Merged PR [#203](https://github.com/synolia/SyliusAkeneoPlugin/pull/203) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-6. 🎉 Merged PR [#202](https://github.com/synolia/SyliusAkeneoPlugin/pull/202) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+1. ❌ Reopened PR [#48](https://github.com/synolia/SyliusMaintenancePlugin/pull/48) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+2. ❌ Closed PR [#48](https://github.com/synolia/SyliusMaintenancePlugin/pull/48) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+3. 🗣 Commented on [#66](https://github.com/synolia/SyliusGDPRPlugin/issues/66#issuecomment-3329126598) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+4. 🗣 Commented on [#16312](https://github.com/Sylius/Sylius/issues/16312#issuecomment-3329113959) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
+5. 🗣 Commented on [#273](https://github.com/payplug/SyliusPayPlugPlugin/pull/273#issuecomment-3279346223) in [payplug/SyliusPayPlugPlugin](https://github.com/payplug/SyliusPayPlugPlugin)
+6. 🎉 Merged PR [#179](https://github.com/synolia/SyliusPayPlugPlugin/pull/179) in [synolia/SyliusPayPlugPlugin](https://github.com/synolia/SyliusPayPlugPlugin)
 7. 🗣 Commented on [#200](https://github.com/synolia/SyliusAkeneoPlugin/pull/200#issuecomment-3012200974) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
 8. 🎉 Merged PR [#201](https://github.com/synolia/SyliusAkeneoPlugin/pull/201) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
 9. 🚀 Published release [v4.1.0](https://github.com/synolia/SyliusAkeneoPlugin/releases/tag/v4.1.0) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
