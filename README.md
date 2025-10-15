@@ -11,8 +11,8 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#48](https://github.com/synolia/SyliusMaintenancePlugin/pull/48) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
-2. ❌ Closed PR [#48](https://github.com/synolia/SyliusMaintenancePlugin/pull/48) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+1. ❌ Reopened PR [#48](undefined) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+2. ❌ Closed PR [#48](undefined) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
 3. 🗣 Commented on [#66](https://github.com/synolia/SyliusGDPRPlugin/issues/66#issuecomment-3329126598) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
 4. 🗣 Commented on [#16312](https://github.com/Sylius/Sylius/issues/16312#issuecomment-3329113959) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
 5. 🗣 Commented on [#273](https://github.com/payplug/SyliusPayPlugPlugin/pull/273#issuecomment-3279346223) in [payplug/SyliusPayPlugPlugin](https://github.com/payplug/SyliusPayPlugPlugin)
