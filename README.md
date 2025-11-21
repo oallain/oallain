@@ -11,9 +11,9 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#113](undefined) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-2. ❌ Closed PR [#48](undefined) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
-3. 🗣 Commented on [#66](https://github.com/synolia/SyliusGDPRPlugin/issues/66#issuecomment-3329126598) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+1. 🚀 Published release [v3.8.1](https://github.com/synolia/SyliusSchedulerCommandPlugin/releases/tag/v3.8.1) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+2. 💪 Opened PR [#114](undefined) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+3. 💪 Opened PR [#113](undefined) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
 4. 🗣 Commented on [#16312](https://github.com/Sylius/Sylius/issues/16312#issuecomment-3329113959) in [Sylius/Sylius](https://github.com/Sylius/Sylius)
 5. 🗣 Commented on [#273](https://github.com/payplug/SyliusPayPlugPlugin/pull/273#issuecomment-3279346223) in [payplug/SyliusPayPlugPlugin](https://github.com/payplug/SyliusPayPlugPlugin)
 6. 🎉 Merged PR [#179](https://github.com/synolia/SyliusPayPlugPlugin/pull/179) in [synolia/SyliusPayPlugPlugin](https://github.com/synolia/SyliusPayPlugPlugin)
