@@ -11,12 +11,12 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/118) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-2. 💪 Opened PR [#118](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/118) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-3. 💪 Opened PR [#47](https://github.com/Sylius/TestApplication/pull/47) in [Sylius/TestApplication](https://github.com/Sylius/TestApplication)
-4. ❌ Closed PR [#113](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/113) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-5. 🗣 Commented on [#113](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/113#issuecomment-3685708234) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-6. 🗣 Commented on [#50](https://github.com/synolia/SyliusMaintenancePlugin/issues/50#issuecomment-3586754588) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+1. 💪 Opened PR [#211](https://github.com/synolia/SyliusAkeneoPlugin/pull/211) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+2. 🗣 Commented on [#291](https://github.com/BitBagCommerce/SyliusWishlistPlugin/pull/291#issuecomment-3836050868) in [BitBagCommerce/SyliusWishlistPlugin](https://github.com/BitBagCommerce/SyliusWishlistPlugin)
+3. 🗣 Commented on [#47](https://github.com/Sylius/WishlistPlugin/issues/47#issuecomment-3836044659) in [Sylius/WishlistPlugin](https://github.com/Sylius/WishlistPlugin)
+4. 🗣 Commented on [#291](https://github.com/BitBagCommerce/SyliusWishlistPlugin/pull/291#issuecomment-3835663664) in [BitBagCommerce/SyliusWishlistPlugin](https://github.com/BitBagCommerce/SyliusWishlistPlugin)
+5. ❗ Opened issue [#47](https://github.com/Sylius/WishlistPlugin/issues/47) in [Sylius/WishlistPlugin](https://github.com/Sylius/WishlistPlugin)
+6. 🗣 Commented on [#291](https://github.com/BitBagCommerce/SyliusWishlistPlugin/pull/291#issuecomment-3835187893) in [BitBagCommerce/SyliusWishlistPlugin](https://github.com/BitBagCommerce/SyliusWishlistPlugin)
 7. 🔒 Closed issue [#50](https://github.com/synolia/SyliusMaintenancePlugin/issues/50) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
 8. 🚀 Published release [v2.1.1](https://github.com/synolia/SyliusMaintenancePlugin/releases/tag/v2.1.1) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
 9. ❌ Merged PR [#51](undefined) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
