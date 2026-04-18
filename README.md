@@ -11,9 +11,9 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.0.2](https://github.com/synolia/SyliusSchedulerCommandPlugin/releases/tag/v4.0.2) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
-2. 🔒 Closed issue [#44](https://github.com/synolia/SyliusMailTesterPlugin/issues/44) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
-3. 🗣 Commented on [#44](https://github.com/synolia/SyliusMailTesterPlugin/issues/44#issuecomment-3847153211) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+1. 🗣 Commented on [#214](https://github.com/synolia/SyliusAkeneoPlugin/issues/214#issuecomment-4269224959) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+2. ❗ Opened issue [#214](https://github.com/synolia/SyliusAkeneoPlugin/issues/214) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+3. ℹ️ Labeled issue [#214](https://github.com/synolia/SyliusAkeneoPlugin/issues/214) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
 4. 💪 Opened PR [#211](https://github.com/synolia/SyliusAkeneoPlugin/pull/211) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
 5. 🗣 Commented on [#291](https://github.com/BitBagCommerce/SyliusWishlistPlugin/pull/291#issuecomment-3836050868) in [BitBagCommerce/SyliusWishlistPlugin](https://github.com/BitBagCommerce/SyliusWishlistPlugin)
 6. 🗣 Commented on [#47](https://github.com/Sylius/WishlistPlugin/issues/47#issuecomment-3836044659) in [Sylius/WishlistPlugin](https://github.com/Sylius/WishlistPlugin)
