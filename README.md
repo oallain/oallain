@@ -11,10 +11,10 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/9) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
-2. 🎉 Merged PR [#8](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/8) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
-3. 💪 Opened PR [#8](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/8) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
-4. ℹ️ Labeled issue [#214](https://github.com/synolia/SyliusAkeneoPlugin/issues/214) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+1. 🎉 Merged PR [#9](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/9) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
+2. 💪 Opened PR [#9](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/9) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
+3. 🎉 Merged PR [#8](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/8) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
+4. 💪 Opened PR [#8](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/8) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
 5. 🗣 Commented on [#291](https://github.com/BitBagCommerce/SyliusWishlistPlugin/pull/291#issuecomment-3836050868) in [BitBagCommerce/SyliusWishlistPlugin](https://github.com/BitBagCommerce/SyliusWishlistPlugin)
 6. 🗣 Commented on [#47](https://github.com/Sylius/WishlistPlugin/issues/47#issuecomment-3836044659) in [Sylius/WishlistPlugin](https://github.com/Sylius/WishlistPlugin)
 7. 🗣 Commented on [#291](https://github.com/BitBagCommerce/SyliusWishlistPlugin/pull/291#issuecomment-3835663664) in [BitBagCommerce/SyliusWishlistPlugin](https://github.com/BitBagCommerce/SyliusWishlistPlugin)
