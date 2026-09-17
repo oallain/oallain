@@ -11,9 +11,9 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/9) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
-2. 💪 Opened PR [#9](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/9) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
-3. 🎉 Merged PR [#8](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/8) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
+1. 🚀 Published release [v2.7.0](https://github.com/synolia/SyliusMailTesterPlugin/releases/tag/v2.7.0) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+2. 🚀 Published release [v3.1.0](https://github.com/synolia/SyliusMailTesterPlugin/releases/tag/v3.1.0) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+3. 🎉 Merged PR [#47](https://github.com/Sylius/TestApplication/pull/47) in [Sylius/TestApplication](https://github.com/Sylius/TestApplication)
 4. 💪 Opened PR [#8](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/8) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
 5. 🗣 Commented on [#291](https://github.com/BitBagCommerce/SyliusWishlistPlugin/pull/291#issuecomment-3836050868) in [BitBagCommerce/SyliusWishlistPlugin](https://github.com/BitBagCommerce/SyliusWishlistPlugin)
 6. 🗣 Commented on [#47](https://github.com/Sylius/WishlistPlugin/issues/47#issuecomment-3836044659) in [Sylius/WishlistPlugin](https://github.com/Sylius/WishlistPlugin)
