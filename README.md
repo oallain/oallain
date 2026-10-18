@@ -11,8 +11,8 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1.2](https://github.com/synolia/SyliusMaintenancePlugin/releases/tag/v2.1.2) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
-2. 🚀 Published release [v2.7.0](https://github.com/synolia/SyliusMailTesterPlugin/releases/tag/v2.7.0) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+1. 🚀 Published release [v0.1.0](https://github.com/oallain/ha-sencrop/releases/tag/v0.1.0) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
+2. 🚀 Published release [v2.1.2](https://github.com/synolia/SyliusMaintenancePlugin/releases/tag/v2.1.2) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
 3. 🚀 Published release [v3.1.0](https://github.com/synolia/SyliusMailTesterPlugin/releases/tag/v3.1.0) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
 4. 🎉 Merged PR [#47](https://github.com/Sylius/TestApplication/pull/47) in [Sylius/TestApplication](https://github.com/Sylius/TestApplication)
 5. 🗣 Commented on [#291](https://github.com/BitBagCommerce/SyliusWishlistPlugin/pull/291#issuecomment-3836050868) in [BitBagCommerce/SyliusWishlistPlugin](https://github.com/BitBagCommerce/SyliusWishlistPlugin)
