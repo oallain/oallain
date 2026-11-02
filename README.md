@@ -11,14 +11,14 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12773](https://github.com/hacs/default/pull/12773) in [hacs/default](https://github.com/hacs/default)
-2. 🚀 Published release [v0.1.2](https://github.com/oallain/ha-sencrop/releases/tag/v0.1.2) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
-3. 🎉 Merged PR [#1](https://github.com/oallain/ha-sencrop/pull/1) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
-4. 💪 Opened PR [#1](https://github.com/oallain/ha-sencrop/pull/1) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
-5. 🚀 Published release [v0.1.1](https://github.com/oallain/ha-sencrop/releases/tag/v0.1.1) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
-6. 🚀 Published release [v0.1.0](https://github.com/oallain/ha-sencrop/releases/tag/v0.1.0) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
-7. 🗣 Commented on [#291](https://github.com/BitBagCommerce/SyliusWishlistPlugin/pull/291#issuecomment-3835663664) in [BitBagCommerce/SyliusWishlistPlugin](https://github.com/BitBagCommerce/SyliusWishlistPlugin)
-8. ❗ Opened issue [#47](https://github.com/Sylius/WishlistPlugin/issues/47) in [Sylius/WishlistPlugin](https://github.com/Sylius/WishlistPlugin)
+1. 🚀 Published release [v0.1.3](https://github.com/oallain/ha-sencrop/releases/tag/v0.1.3) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
+2. 🎉 Merged PR [#12773](https://github.com/hacs/default/pull/12773) in [hacs/default](https://github.com/hacs/default)
+3. 💪 Opened PR [#12773](https://github.com/hacs/default/pull/12773) in [hacs/default](https://github.com/hacs/default)
+4. 🚀 Published release [v0.1.2](https://github.com/oallain/ha-sencrop/releases/tag/v0.1.2) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
+5. 🎉 Merged PR [#1](https://github.com/oallain/ha-sencrop/pull/1) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
+6. 💪 Opened PR [#1](https://github.com/oallain/ha-sencrop/pull/1) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
+7. 🚀 Published release [v0.1.1](https://github.com/oallain/ha-sencrop/releases/tag/v0.1.1) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
+8. 🚀 Published release [v0.1.0](https://github.com/oallain/ha-sencrop/releases/tag/v0.1.0) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
 9. 🗣 Commented on [#291](https://github.com/BitBagCommerce/SyliusWishlistPlugin/pull/291#issuecomment-3835187893) in [BitBagCommerce/SyliusWishlistPlugin](https://github.com/BitBagCommerce/SyliusWishlistPlugin)
 10. 💪 Opened PR [#51](undefined) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
 <!--END_SECTION:activity-->
