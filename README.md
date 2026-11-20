@@ -11,16 +11,16 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/synolia/SyliusGDPRPlugin/pull/71#issuecomment-6917915857) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
-2. 🗣 Commented on [#68](https://github.com/synolia/SyliusGDPRPlugin/pull/68#issuecomment-6791600508) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
-3. 🚀 Published release [v0.1.3](https://github.com/oallain/ha-sencrop/releases/tag/v0.1.3) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
-4. 🎉 Merged PR [#12773](https://github.com/hacs/default/pull/12773) in [hacs/default](https://github.com/hacs/default)
-5. 💪 Opened PR [#12773](https://github.com/hacs/default/pull/12773) in [hacs/default](https://github.com/hacs/default)
-6. 🚀 Published release [v0.1.2](https://github.com/oallain/ha-sencrop/releases/tag/v0.1.2) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
-7. 🎉 Merged PR [#1](https://github.com/oallain/ha-sencrop/pull/1) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
-8. 💪 Opened PR [#1](https://github.com/oallain/ha-sencrop/pull/1) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
-9. 🚀 Published release [v0.1.1](https://github.com/oallain/ha-sencrop/releases/tag/v0.1.1) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
-10. 🚀 Published release [v0.1.0](https://github.com/oallain/ha-sencrop/releases/tag/v0.1.0) in [oallain/ha-sencrop](https://github.com/oallain/ha-sencrop)
+1. ℹ️ Labeled PR [#222](https://github.com/synolia/SyliusAkeneoPlugin/pull/222) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+2. 💪 Opened PR [#222](https://github.com/synolia/SyliusAkeneoPlugin/pull/222) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+3. 🎉 Merged PR [#221](https://github.com/synolia/SyliusAkeneoPlugin/pull/221) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+4. 🚀 Published release [v2.1.0](https://github.com/synolia/SyliusGDPRPlugin/releases/tag/v2.1.0) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+5. 🎉 Merged PR [#74](https://github.com/synolia/SyliusGDPRPlugin/pull/74) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+6. 💪 Opened PR [#74](https://github.com/synolia/SyliusGDPRPlugin/pull/74) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+7. ℹ️ Labeled PR [#221](https://github.com/synolia/SyliusAkeneoPlugin/pull/221) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+8. 💪 Opened PR [#221](https://github.com/synolia/SyliusAkeneoPlugin/pull/221) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+9. 🎉 Merged PR [#73](https://github.com/synolia/SyliusGDPRPlugin/pull/73) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
+10. 💪 Opened PR [#73](https://github.com/synolia/SyliusGDPRPlugin/pull/73) in [synolia/SyliusGDPRPlugin](https://github.com/synolia/SyliusGDPRPlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
