@@ -11,16 +11,16 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.0.0](https://github.com/synolia/SyliusAkeneoPlugin/releases/tag/v5.0.0) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-2. 🎉 Merged PR [#227](https://github.com/synolia/SyliusAkeneoPlugin/pull/227) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-3. 🎉 Merged PR [#226](https://github.com/synolia/SyliusAkeneoPlugin/pull/226) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-4. 🎉 Merged PR [#225](https://github.com/synolia/SyliusAkeneoPlugin/pull/225) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-5. 💪 Opened PR [#227](https://github.com/synolia/SyliusAkeneoPlugin/pull/227) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-6. 💪 Opened PR [#226](https://github.com/synolia/SyliusAkeneoPlugin/pull/226) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-7. 💪 Opened PR [#225](https://github.com/synolia/SyliusAkeneoPlugin/pull/225) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-8. ❌ Closed PR [#156](https://github.com/synolia/SyliusAkeneoPlugin/pull/156) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-9. 🗣 Commented on [#156](https://github.com/synolia/SyliusAkeneoPlugin/pull/156#issuecomment-7139388317) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-10. ❌ Closed PR [#78](https://github.com/synolia/SyliusAkeneoPlugin/pull/78) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
+1. 🚀 Published release [v2.2.0](https://github.com/synolia/SyliusMaintenancePlugin/releases/tag/v2.2.0) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+2. 🎉 Merged PR [#62](https://github.com/synolia/SyliusMaintenancePlugin/pull/62) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+3. 💪 Opened PR [#62](https://github.com/synolia/SyliusMaintenancePlugin/pull/62) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+4. 🎉 Merged PR [#61](https://github.com/synolia/SyliusMaintenancePlugin/pull/61) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+5. 🎉 Merged PR [#60](https://github.com/synolia/SyliusMaintenancePlugin/pull/60) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+6. 💪 Opened PR [#61](https://github.com/synolia/SyliusMaintenancePlugin/pull/61) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+7. 💪 Opened PR [#60](https://github.com/synolia/SyliusMaintenancePlugin/pull/60) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+8. 🎉 Merged PR [#57](https://github.com/synolia/SyliusMaintenancePlugin/pull/57) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+9. 🎉 Merged PR [#58](https://github.com/synolia/SyliusMaintenancePlugin/pull/58) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
+10. 🔒 Closed issue [#54](https://github.com/synolia/SyliusMaintenancePlugin/issues/54) in [synolia/SyliusMaintenancePlugin](https://github.com/synolia/SyliusMaintenancePlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
