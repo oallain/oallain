@@ -11,16 +11,16 @@ I'm Olivier, a web developer/architecte in the Bordeaux (France) area.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.0.1](https://github.com/synolia/SyliusAkeneoPlugin/releases/tag/v5.0.1) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-2. 🔒 Closed issue [#214](https://github.com/synolia/SyliusAkeneoPlugin/issues/214) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-3. 🎉 Merged PR [#228](https://github.com/synolia/SyliusAkeneoPlugin/pull/228) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-4. 💪 Opened PR [#10](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/10) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
-5. 💪 Opened PR [#228](https://github.com/synolia/SyliusAkeneoPlugin/pull/228) in [synolia/SyliusAkeneoPlugin](https://github.com/synolia/SyliusAkeneoPlugin)
-6. 🔒 Closed issue [#47](https://github.com/Sylius/WishlistPlugin/issues/47) in [Sylius/WishlistPlugin](https://github.com/Sylius/WishlistPlugin)
-7. 🗣 Commented on [#80](https://github.com/webgriffe/SyliusBackInStockNotificationPlugin/pull/80#issuecomment-7196952264) in [webgriffe/SyliusBackInStockNotificationPlugin](https://github.com/webgriffe/SyliusBackInStockNotificationPlugin)
-8. 💪 Opened PR [#80](https://github.com/webgriffe/SyliusBackInStockNotificationPlugin/pull/80) in [webgriffe/SyliusBackInStockNotificationPlugin](https://github.com/webgriffe/SyliusBackInStockNotificationPlugin)
-9. 🗣 Commented on [#303](https://github.com/akeneo/api-php-client/pull/303#issuecomment-7190442153) in [akeneo/api-php-client](https://github.com/akeneo/api-php-client)
-10. 💪 Opened PR [#303](https://github.com/akeneo/api-php-client/pull/303) in [akeneo/api-php-client](https://github.com/akeneo/api-php-client)
+1. 🎉 Merged PR [#52](https://github.com/synolia/SyliusMailTesterPlugin/pull/52) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+2. 🔒 Closed issue [#92](https://github.com/synolia/SyliusSchedulerCommandPlugin/issues/92) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+3. 🗣 Commented on [#92](https://github.com/synolia/SyliusSchedulerCommandPlugin/issues/92#issuecomment-7224143404) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+4. ❌ Closed PR [#93](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/93) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+5. 🗣 Commented on [#93](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/93#issuecomment-7224113530) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+6. 💪 Opened PR [#52](https://github.com/synolia/SyliusMailTesterPlugin/pull/52) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+7. 🎉 Merged PR [#51](https://github.com/synolia/SyliusMailTesterPlugin/pull/51) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+8. 🎉 Merged PR [#124](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/124) in [synolia/SyliusSchedulerCommandPlugin](https://github.com/synolia/SyliusSchedulerCommandPlugin)
+9. 💪 Opened PR [#51](https://github.com/synolia/SyliusMailTesterPlugin/pull/51) in [synolia/SyliusMailTesterPlugin](https://github.com/synolia/SyliusMailTesterPlugin)
+10. 🎉 Merged PR [#10](https://github.com/synolia/SyliusAdminNotificationPlugin/pull/10) in [synolia/SyliusAdminNotificationPlugin](https://github.com/synolia/SyliusAdminNotificationPlugin)
 <!--END_SECTION:activity-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oallain&show_icons=true&locale=en" alt="oallain" /></p>
